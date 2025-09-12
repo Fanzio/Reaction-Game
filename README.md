@@ -20,4 +20,4 @@ Il giocatore deve distruggere bersagli che appaiono sullo schermo cercando di ot
 [Gameplay.mp4](Videos/ReactionTime.mp4)
 
 ### Screenshot
-![Screenshot del gioco](Images/Screenshot.png)
+![Screenshot del gioco](Screenshot.png)
