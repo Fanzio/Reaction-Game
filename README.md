@@ -14,5 +14,10 @@ Il giocatore deve distruggere bersagli che appaiono sullo schermo cercando di ot
 
 - Tap sul bersaglio → Distruggerlo
 
-## 🎯 Video dimostrativo
+## 🎯 Dimostrazioni
+
+### Video gameplay
 [Gameplay.mp4](Videos/ReactionTime.mp4)
+
+### Screenshot
+![Screenshot del gioco](Images/Screenshot.png)
